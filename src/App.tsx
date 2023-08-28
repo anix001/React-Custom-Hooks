@@ -1,10 +1,11 @@
+import { ArrayComponent } from './pages/ArrayComponent'
 import './App.css'
 
 function App() {
 
   return (
     <>
-      anix001 is here.
+     <ArrayComponent/>
     </>
   )
 }
